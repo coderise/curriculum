@@ -9,4 +9,3 @@ Contenido del curso de Desarrollo de Aplicaciones Web del Programa Coderise
 * HTML
 * CSS
 * JavaScript
-* Despliegue e Instalación

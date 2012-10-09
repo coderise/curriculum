@@ -5,3 +5,4 @@
 {"ts":1349755586955,"patch":[[{"diffs":[[0,"ript\n* D"],[1,"espliegue"]],"start1":232,"start2":232,"length1":8,"length2":17}]],"length":249,"saved":false}
 {"ts":1349755587878,"patch":[[{"diffs":[[0,"spliegue"],[1," e I"]],"start1":241,"start2":241,"length1":8,"length2":12}]],"length":253,"saved":false}
 {"ts":1349755591187,"patch":[[{"diffs":[[0,"egue e I"],[1,"nstalación"]],"start1":245,"start2":245,"length1":8,"length2":18}]],"length":263,"saved":false}
+{"contributors":[],"silentsave":false,"ts":1349756923645,"patch":[[{"diffs":[[0,"ript"],[-1,"\n* Despliegue e Instalación"]],"start1":232,"start2":232,"length1":31,"length2":4}]],"length":236,"saved":false}
