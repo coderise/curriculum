@@ -1,2 +1,0 @@
-{"ts":1349752646172,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
-{"contributors":[],"silentsave":false,"ts":1349752647294,"patch":[[{"diffs":[[1,"document.createElement('header');\ndocument.createElement('nav');\ndocument.createElement('section');\ndocument.createElement('article');\ndocument.createElement('aside');\ndocument.createElement('footer');\ndocument.createElement('hgroup');"]],"start1":0,"start2":0,"length1":0,"length2":235}]],"length":235,"saved":false}
