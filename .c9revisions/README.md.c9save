@@ -1,0 +1,7 @@
+{"ts":1349730745397,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"curriculum\n==========\n\nCurriculum Slides using Reveal.js"]],"start1":0,"start2":0,"length1":0,"length2":56}]],"length":56}
+{"contributors":[],"silentsave":false,"ts":1349731124341,"patch":[[{"diffs":[[-1,"curriculum\n==========\n\nCurriculum Slides using Reveal.js"],[1,"# Coderise Curriculum\n\nContenido del curso de Desarrollo de Aplicaciones Web del Programa Coderise\n\n## Programa\n* Introducción\n* Fundamentos de Programación (en JavaScript)\n* Control de Versiones (git)\n* HTML\n* CSS\n* JavaScript"]],"start1":0,"start2":0,"length1":56,"length2":227}]],"length":227,"saved":false}
+{"contributors":[],"silentsave":false,"ts":1349747330287,"patch":[[{"diffs":[[0,"es ("],[-1,"git"],[1,"Git y Github"],[0,")\n* "]],"start1":193,"start2":193,"length1":11,"length2":20}]],"length":236,"saved":false}
+{"ts":1349755585140,"patch":[[{"diffs":[[0,"CSS\n* JavaScript"],[1,"\n* D"]],"start1":220,"start2":220,"length1":16,"length2":20}]],"length":240,"saved":false}
+{"ts":1349755586955,"patch":[[{"diffs":[[0,"ript\n* D"],[1,"espliegue"]],"start1":232,"start2":232,"length1":8,"length2":17}]],"length":249,"saved":false}
+{"ts":1349755587878,"patch":[[{"diffs":[[0,"spliegue"],[1," e I"]],"start1":241,"start2":241,"length1":8,"length2":12}]],"length":253,"saved":false}
+{"ts":1349755591187,"patch":[[{"diffs":[[0,"egue e I"],[1,"nstalación"]],"start1":245,"start2":245,"length1":8,"length2":18}]],"length":263,"saved":false}
