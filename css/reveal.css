@@ -1015,9 +1015,25 @@ body {
     display: none;
 	position: fixed;
 	width: 100px;
-	height: 100px;
 	z-index: 30;
 
 	left: 15px;
 	bottom: 0;
+}
+
+/*********************************************
+ * LICENSE
+ *********************************************/
+
+ .reveal .footer-license {
+    display: none;
+    position: fixed;
+    text-align: center;
+    width: 300px;
+    font-size: 10px;
+	z-index: 30;
+    
+    left: 50%;
+    margin-left: -150px;
+	bottom: 5px;
 }
